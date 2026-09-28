@@ -4,13 +4,6 @@ A simple **Character Frequency Counter** web application built using **HTML, CSS
 
 The application takes a text input from the user and counts how many times each character appears in the given text.
 
-## 🚀 Live Demo
-
-Add your deployed project link here:
-
-```text
-https://your-project-link.vercel.app
-```
 
 ## 📌 Features
 
