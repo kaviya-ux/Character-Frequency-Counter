@@ -56,11 +56,4 @@ l : 2
 o : 1
 ```
 
-## 🔮 Future Improvements
 
-* Add a clear/reset button
-* Add word frequency counting
-* Add total character count
-* Add option to ignore spaces
-* Add option to ignore uppercase/lowercase differences
-* Improve the UI with animations
